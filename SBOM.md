@@ -19,5 +19,3 @@ Note: License information should be verified as it can differ based on the packa
 Generating the SBOM
 For future reference, if you need to generate an SBOM for a larger project or include more detailed information (like sub-dependencies or more comprehensive licensing details), consider using tools like:
 
-CycloneDX: A lightweight SBOM standard designed for use in application security contexts and supply chain component analysis.
-SPDX: The Software Package Data Exchange standard, which helps communicate the components, licenses, and copyrights associated with software packages.
